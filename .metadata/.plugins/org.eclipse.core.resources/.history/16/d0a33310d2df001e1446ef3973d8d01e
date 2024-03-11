@@ -1,0 +1,16 @@
+package estudio;
+
+public class ProgramacionEstructurada {
+
+	public static void main(String[] args) {
+		
+		int c;
+		c= 20;
+		if(c>=18) {
+			System.out.println("Mayor de edad");
+			
+		}
+
+	}
+
+}

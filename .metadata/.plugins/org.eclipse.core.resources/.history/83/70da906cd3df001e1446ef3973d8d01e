@@ -1,0 +1,23 @@
+package estudio;
+import java.util.*;
+
+public class ProgramacionEstructurada {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		int edad;
+		char sexo;
+		int tlf;
+		
+		System.out.println("Introduzca su edad");
+		edad=scan.nextInt();
+		System.out.println("Su sexo");
+		
+		System.out.println("Su salario");
+		
+	
+
+	}
+
+}
